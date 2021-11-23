@@ -1,4 +1,4 @@
-pictures and label
+pictures and labels
 for each picture in label.txt :
  [ [ type, point1.x, point1.y, point2.x, point2.y, point3.x, point3.y, point4.x, point4.y ] x 147 ] 
  
